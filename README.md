@@ -1,4 +1,4 @@
-# angular-ddd
+# DDD Angular
 A sample Angular app to experiment with Domain Driven Design concepts in a Functional Reactive Programming context.
 
 The question is, does Domain Driven Design, which is largely from the Object Oriented world, have any application in a the functional reactive paradigm of the rxjs driven Angular. 
